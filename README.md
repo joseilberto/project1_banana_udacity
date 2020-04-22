@@ -43,7 +43,7 @@ Our agent uses the Deep Q-Network scheme presented in the paper [Human-level con
 
 Our agent is trained in the Navigation.ipynb notebook running the cells presented in its training section. A typical training routine yields a result as the one below in which the agent with the parameters given in the parameters_dict variable in the notebook is capable of reaching an average score of 15 at the end of the last 100 episodes. 
 
-![The rewards obtained at the end of each episode as well as the average of the last 100 episodes and a moving average with step size equal to 3.][images/scores_all.png]
+![The rewards obtained at the end of each episode as well as the average of the last 100 episodes and a moving average with step size equal to 3.](https://github.com/joseilberto/project1_banana_udacity/blob/master/images/scores_all.png)
 
 ## Report file
 
